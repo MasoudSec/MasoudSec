@@ -2,7 +2,13 @@
 
 <!--
 **MasoudSec/MasoudSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Masood.
 
+I’m passionate about cybersecurity and currently focused on developing practical skills in network security, ethical hacking, and Linux.
+
+Currently learning and practicing on platforms like TryHackMe while building hands-on experience through labs and security projects.
+
+Goal: Start as a SOC Analyst and grow toward Red Teaming.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
